@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "映画",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-06T07:45:54.875800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "20センチュリー・ボーイ (映画「20世紀少年」主題歌)",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/01_20センチュリー・ボーイ_(映画「20世紀少年」主題歌)_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "映画",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_映画_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "映画",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_映画_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ごはんはおかず(映画「けいおん!」Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/04_ごはんはおかず(映画「けいおん!」Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天使にふれたよ!(映画「けいおん!」Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/05_天使にふれたよ!(映画「けいおん!」Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "U&I(映画「けいおん!」Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/06_U&I(映画「けいおん!」Mix)_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロケット・トゥ・ザ・ムーン~信じた世界へ~ (Netflix 映画『フェイフェイと月の冒険』より)",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/07_ロケット・トゥ・ザ・ムーン~信じた世界へ~_(Netflix_映画『フェイフェイと月の冒険』より)_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Samidare 20 Love (映画 「K-ON!」 Mix)",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": true,
+      "path": "select/08_Samidare_20_Love_(映画_「K-ON!」_Mix)_Ho-kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "五月雨20ラブ(映画「けいおん!」Mix)",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/09_五月雨20ラブ(映画「けいおん!」Mix)_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "映画「天使にラブ・ソングを II」より (Ain't no mountain high enough)",
+      "artist": "The Countdown Singers",
+      "has_synced": false,
+      "path": "select/10_映画「天使にラブ・ソングを_II」より_(Ain't_no_mountain_high_enough)_The_Countdown_Singers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "映画",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_映画_サカナクション.txt"
+    }
+  ]
+}
